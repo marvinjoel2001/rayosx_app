@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81505687565",
+    "project_id": "rayox-3f614",
+    "storage_bucket": "rayox-3f614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81505687565:android:c369a0c3aca523ad2c5d44",
+        "android_client_info": {
+          "package_name": "com.example.rayosx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81505687565-h2fvhl2iq73rfbp2md14aigmdvhhqfvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrwgRQoyv_c8ObV4W7o0HRCI0ByhfKqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81505687565-h2fvhl2iq73rfbp2md14aigmdvhhqfvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

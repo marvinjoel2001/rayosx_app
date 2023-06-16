@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Rayox</string>
+<string name="email">email</string>
+<string name="password">password</string>
+<string name="login">login</string>
+<string name="dont_have_account">No tienes una cuenta \n as Click aqui</string>
+<string name="name">name</string>
+<string name="signup">signup</string>
+<string name="already_have_account">Ya tienes una cuenta?\n as Click aqui para loguearte</string>
+<string name="welcome_back">Bienvenido</string>
+<string name="empty" />
+<string name="logout">logout</string>
+</resources>
